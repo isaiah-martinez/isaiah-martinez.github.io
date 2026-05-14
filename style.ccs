@@ -1,3 +1,12 @@
+/* Remove underline from all link states */
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none; /* Removes underline */
+    color: inherit;        /* Optional: keeps text color same as parent */
+}
+
 /*Navigation bar things*/
 .topnav {
   float: center;
