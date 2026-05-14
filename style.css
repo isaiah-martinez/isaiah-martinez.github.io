@@ -4,7 +4,6 @@ a:visited,
 a:hover,
 a:active {
     text-decoration: none; /* Removes underline */
-    color: inherit;        /* Optional: keeps text color same as parent */
 }
 
 /* Home page style and adjacent*/
