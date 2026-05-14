@@ -7,14 +7,6 @@ a:active {
     color: inherit;        /* Optional: keeps text color same as parent */
 }
 
-/*Navigation bar things*/
-.topnav {
-  float: center;
-  color: #f2f2f2;
-  text-align: center;
-  font-size: 16px;
-}
-
 /* Home page style and adjacent*/
 .bio {
 text-algin: center;
