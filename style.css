@@ -2,7 +2,6 @@
 .bio {
 text-algin: center;
 width: 500px;
-margin: 0 auto;
 }
 
 .teaching {
@@ -12,3 +11,11 @@ margin: 0 auto;
 	align-text: center;
 	margin: 0 auto;
 }
+
+@media screen and (max-width:400px){
+	.bio {
+		text-align: center;
+		width: 75%;
+		margin: 0 auto;
+}
+
