@@ -17,5 +17,14 @@ width: 500px;
 		text-align: center;
 		width: 75%;
 		margin: 0 auto;
+	}
+	
+	.teaching {
+		width: 75%;
+		align-content: left;
+  		align-items: center;
+		align-text: center;
+		margin: 0 auto;
+	}
 }
 
