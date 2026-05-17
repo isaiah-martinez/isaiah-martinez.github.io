@@ -1,7 +1,7 @@
 .bio {
-	align-content: left;
+	align-content: center;
   	align-items: center;
-	align-text: center;
+	align-text: left;
 	margin: 0 auto;
 	width: 500px;
 }
