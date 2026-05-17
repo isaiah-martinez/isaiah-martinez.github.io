@@ -1,6 +1,9 @@
 .bio {
-text-algin: center;
-width: 500px;
+	align-content: left;
+  	align-items: center;
+	align-text: center;
+	margin: 0 auto;
+	width: 500px;
 }
 
 .teaching {
