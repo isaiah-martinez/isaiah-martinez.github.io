@@ -6,6 +6,7 @@
 	width: 500px;
 }
 
+/*
 .teaching {
 	width: 600px;
 	align-content: left;
@@ -13,6 +14,7 @@
 	align-text: center;
 	margin: 0 auto;
 }
+*/
 
 .talks {
 	width: 625px;
@@ -27,7 +29,7 @@
 		width: 75%;
 		margin: 0 auto;
 	}
-	
+/*
 	.teaching {
 		width: 75%;
 		align-content: left;
@@ -35,11 +37,16 @@
 		align-text: center;
 		margin: 0 auto;
 	}
-	.talks {
-	width: 75%;
+*/
+	
+}
+
+@media screen and (max-width: 600px){
+.talks {
+	width: 70%;
 	align-content: left;
   	align-items: center;
 	margin: 0 auto;
 }
-}
 
+}
